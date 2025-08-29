@@ -4,9 +4,6 @@
     <option name="synchronizeBranchProtectionRules" value="false" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-  </component>
-  <component name="VcsProjectSettings">
-    <option name="detectVcsMappingsAutomatically" value="false" />
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
   </component>
 </project>
