@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a163c8-acbd-4e57-ba20-f61a8cc352ac" name="Changes" comment="" />
+    <list default="true" id="6cc52a3a-811b-4a88-86db-0eb4a12f3bfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="31ynkdB2fX9399Em53PucDOX0bB" />
+  <component name="ProjectId" id="31yqla3TPGDZUlgRHd9FZD824A7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,12 +24,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ryanreagle/Documents/GitHub/Penn-State-Comp-Sci-Java/CMPS-221/CMPS-221",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="61a163c8-acbd-4e57-ba20-f61a8cc352ac" name="Changes" comment="" />
+      <changelist id="6cc52a3a-811b-4a88-86db-0eb4a12f3bfd" name="Changes" comment="" />
       <created>1756227399348</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
