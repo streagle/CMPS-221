@@ -1,25 +1,18 @@
 
-import java.util.Scanner;
-
 public class Solution2 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter temperature in Celsius: ");
-        int temp = scanner.nextInt();
-
+    public static String getMessage(int temp) {
         if (temp < 0) {
-            System.out.println("FREEZING");
+            return "FREEZING";
         } else if (temp <= 15) {
-            System.out.println("COLD");
+            return "COLD";
         } else if (temp <= 30) {
-            System.out.println("WARM");
+            return "WARM";
         } else if (temp <= 40) {
-            System.out.println("HOT");
+            return "HOT";
         } else {
-            System.out.println("VERY HOT");
+            return "VERY HOT";
         }
-
-        scanner.close();
     }
 }
+

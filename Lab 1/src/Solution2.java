@@ -10,7 +10,7 @@ public class Solution2 {
 
         String grade;
 
-        // Divide marks into ranges of 10s
+
         switch (marks / 10) {
             case 10:
             case 9:

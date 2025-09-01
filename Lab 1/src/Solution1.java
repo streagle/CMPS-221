@@ -1,29 +1,20 @@
-
-import java.util.Scanner;
-
 public class Solution1 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter marks (1-100): ");
-        int marks = scanner.nextInt();
-
+    public static String getGrade(int marks) {
         if (marks < 50) {
-            System.out.println("Your Grade: F");
+            return "F";
         } else if (marks <= 60) {
-            System.out.println("Your Grade: E");
+            return "E";
         } else if (marks <= 70) {
-            System.out.println("Your Grade: D");
+            return "D";
         } else if (marks <= 80) {
-            System.out.println("Your Grade: C");
+            return "C";
         } else if (marks <= 90) {
-            System.out.println("Your Grade: B");
+            return "B";
         } else if (marks <= 100) {
-            System.out.println("Your Grade: A");
+            return "A";
         } else {
-            System.out.println("Invalid marks entered!");
+            return "Invalid marks";
         }
-
-        scanner.close();
     }
 }

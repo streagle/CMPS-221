@@ -11,27 +11,41 @@ public class Solution1 {
         String message;
 
         switch (temp / 10) {
-            case -10: case -9: case -8: case -7: case -6: case -5: case -4: case -3: case -2: case -1: case 0:
-                // This includes all negatives and 0–9
-                message = (temp < 0) ? "FREEZING" : "COLD";
+            case -10: case -9: case -8: case -7: case -6: case -5:
+            case -4: case -3: case -2: case -1:
+                message = "FREEZING";
                 break;
+
+            case 0:
+                if (temp < 0) {
+                    message = "FREEZING";
+                } else {
+                    message = "COLD"; 
+                }
+                break;
+
             case 1:
-                message = "COLD";
+                if (temp <= 15) {
+                    message = "COLD";
+                } else {
+                    message = "WARM";
+                }
                 break;
+
             case 2:
                 message = "WARM";
                 break;
+
             case 3:
-                if (temp <= 30) message = "WARM";
-                else message = "HOT";
+                if (temp <= 40) {
+                    message = "HOT";
+                } else {
+                    message = "VERY HOT";
+                }
                 break;
-            case 4:
-                if (temp <= 40) message = "HOT";
-                else message = "VERY HOT";
-                break;
+
             default:
-                if (temp > 40) message = "VERY HOT";
-                else message = "FREEZING";
+                message = "VERY HOT";
         }
 
         System.out.println(message);

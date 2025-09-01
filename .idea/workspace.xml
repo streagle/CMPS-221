@@ -4,32 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc52a3a-811b-4a88-86db-0eb4a12f3bfd" name="Changes" comment="" />
+    <list default="true" id="6cc52a3a-811b-4a88-86db-0eb4a12f3bfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/src/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/src/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/src/Solution2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;streagle&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:streagle/CMPS-221.git&quot;,
+    &quot;accountId&quot;: &quot;a64e9d6b-ee90-4b14-a1f4-3e3b5ff58c7e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="31yqla3TPGDZUlgRHd9FZD824A7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ryanreagle/Documents/GitHub/Penn-State-Comp-Sci-Java/CMPS-221/CMPS-221",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution2.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanreagle/Documents/GitHub/Penn-State-Comp-Sci-Java/CMPS-221/CMPS-221&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6cc52a3a-811b-4a88-86db-0eb4a12f3bfd" name="Changes" comment="" />
