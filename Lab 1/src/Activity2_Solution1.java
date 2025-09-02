@@ -1,7 +1,7 @@
 // Activity 2 - Solution 2: Using switch-case with ranges
 import java.util.Scanner;
 
-public class Solution1 {
+public class Activity2_Solution1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

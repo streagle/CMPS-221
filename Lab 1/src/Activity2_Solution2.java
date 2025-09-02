@@ -1,5 +1,5 @@
 
-public class Solution2 {
+public class Activity2_Solution2 {
 
     public static String getMessage(int temp) {
         if (temp < 0) {

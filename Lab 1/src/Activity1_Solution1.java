@@ -1,4 +1,4 @@
-public class Solution1 {
+public class Activity1_Solution1 {
 
     public static String getGrade(int marks) {
         if (marks < 50) {

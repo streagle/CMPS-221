@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Solution2 {
+public class Activity1_Solution2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
